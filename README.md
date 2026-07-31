@@ -1,2 +1,2 @@
 # AU-DSA-Lab
-Daily Data Structures and Algorithms practice in C | Adamas University | B.Tech CSE (AI &amp; ML)
+Data Structures and Algorithms in C | Adamas University | B.Tech CSE (AI &amp; ML)
